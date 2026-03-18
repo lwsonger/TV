@@ -89,6 +89,68 @@ CCTV-5+
 快乐垂钓
 JJ斗地主
 
+
+UK: SKY SPORTS Football
+UK: SKY SPORTS Premier League
+UK: SKY SPORTS Main Event
+UK: Sky Sports News
+UK: SKY SPORTS Arena
+UK: SKY SPORTS Action/NFL
+UK: SKY SPORTS Cricket
+UK: SKY SPORTS F1
+UK: SKY SPORTS Golf
+UK: SKY SPORTS Mix
+UK: SKY SPORTS Racing
+UK: SKY SPORTS SciFI
+skysports
+JSPORTS1
+JSPORTS2
+JSPORTS3
+JSPORTS4
+MLB NETWORK
+FOX Sports
+NBA
+NBA TV
+ESPN
+纬来体育
+緯來體育
+ELEVEN体育1
+ELEVEN体育2
+ELEVEN体育3
+爱尔达体育1
+爱尔达体育2
+爱尔达体育3
+ELTA體育1台
+ELTA體育2台
+
+博斯运动
+博斯运动一
+博斯运动二
+博斯高球一
+博斯高球二
+博斯网球
+博斯无限
+TRAce体育
+DAZN体育-壹
+DAZN体育-贰
+智林体育台
+TraceSports
+迪拜体育2
+摔跤格斗
+
+Now Sports 1
+Now Sports 2
+Now Sports 3
+Now Sports 4
+Now Sports 5
+Now Sports 6
+Now Sports 7
+Now Sports Prime
+NowSports plus
+NowSports 英超
+Now NBA TV
+
+
 📺央视频道,#genre#
 CCTV-1
 CCTV-2
@@ -882,6 +944,7 @@ TVBS亚洲
 J2
 Viutv
 中视
+中视HD
 华视
 民视
 民视台湾
@@ -890,6 +953,7 @@ Viutv
 三立都会
 三立综合
 三立台湾
+三立国际
 中天综合
 中天娱乐
 八大第一
@@ -901,9 +965,15 @@ TVBS欢乐
 东森超视
 公视
 公视台语
+大立电视
+民视闽南
+中视闽南
+华视闽南
+台视闽南
 
 中视新闻
 华视新闻
+华视新闻资讯
 民视新闻
 台视新闻
 无线新闻
@@ -917,22 +987,14 @@ TVBS新闻
 
 东森美洲
 中天亚洲
+高点综合
+壹综合
 纬来精彩
 纬来日本
 纬来综合
 纬来育乐
-纬来体育
 爱尔达综合
 爱尔达影剧
-爱尔达体育1
-爱尔达体育2
-爱尔达体育3
-博斯运动一
-博斯运动二
-博斯高球一
-博斯高球二
-博斯网球
-博斯无限
 EYE旅游
 亚洲美食
 美食星球
@@ -941,6 +1003,12 @@ TLC旅游生活
 Arirang
 AXN Taiwan
 MTV Live
+astro-QJ
+astroAec
+astroAod
+astro欢喜
+astro爱奇艺
+astroAod
 
 🎬电影频道,#genre#
 CHC家庭影院
