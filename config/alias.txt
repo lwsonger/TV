@@ -27,6 +27,12 @@ CCTV-4欧洲,CCTV4欧洲,CCTV4欧洲咪咕
 CCTV-4K,CCTV4K,cctv4k_10m,CCTV4K超高清,CCTV-4K超高清,CCTV-4k高码,CCTV-4K广西,CCTV-4k浙江
 CCTV-8K,CCTV8K,CCTV8K 超高清,CCTV-8K超高清[3840*2160],cctv8k_120m,cctv8k_36m,CCTV8K超高清,CCTV-8k高码
 
+山西卫视,山���卫视
+北京卫视,北京卫视4K,北京卫视4K超高清
+广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
+福建经济,福建经视
+福州综合,FZTV1,FZTV-1,福州1-新闻
+福州生活,FZTV3,FZTV-3,福州3-生活
 
 兵器科技,CCTV兵器,CCTV兵器科技,CCTV-兵器科技,CCTV兵器科技HD
 第一剧场,CCTV第一剧场,CCTV-第一剧场,CCTV第一剧场HD,风云剧场,中国电影,CCTV电影轮播
@@ -52,17 +58,13 @@ CETV早教,CETV早期教育,早期教育
 CGTN英语,CGTN英语新闻
 CGTN俄语,CGTN俄罗斯语
 
-广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
-
 翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台
 明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
-北京卫视,北京卫视4K,北京卫视4K超高清
 凤凰中文,凤凰卫视中文台
+
+凤凰资讯,凤凰卫视资讯台
 凤凰香港,凤凰卫视香港台
 福建文体,福建体育
-福建经济,福建经视
-FZTV1,FZTV-1,福州综合,福州1-新闻
-FZTV3,FZTV-3,福州生活,福州3-生活
 
 
 无线新闻台,無綫新聞台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台
@@ -82,13 +84,13 @@ CGTN 英語頻道,RTHK35,RTHK 35,RTHK-35
 
 卡酷少儿,北京卡酷少儿,卡酷少儿高清,卡酷少儿HD,北京卡酷少儿HD,卡酷少儿高码,北京卡酷少儿高码,KAKU,kaku,KaKu,卡酷动画,卡酷动画HD
 
-咪咕直播,咪视通,咪视界,咪咕视频_8M1080_咪视通
+咪咕直播,咪视通,咪视界
 CDTV5,cdtv5,成都公共
-CDTV1,cdtv1
-CDTV2,cdtv2
-CDTV3,cdtv3
-CDTV4,cdtv4
-CDTV5,cdtv5
+CDTV1,cdtv1，成都新闻
+CDTV2,cdtv2，成都经济
+CDTV3,cdtv3,成都都市
+CDTV4,cdtv4,成都影视
+CDTV6,cdtv6成都少儿
 青岛四台,QTV-4
 睛彩竞技,晴彩竞技
 睛彩青少,晴彩青少
