@@ -85,13 +85,13 @@ CGTN 英語頻道,RTHK35,RTHK 35,RTHK-35
 卡酷少儿,北京卡酷少儿,卡酷少儿高清,卡酷少儿HD,北京卡酷少儿HD,卡酷少儿高码,北京卡酷少儿高码,KAKU,kaku,KaKu,卡酷动画,卡酷动画HD
 
 咪咕直播,咪视通,咪视界
-CDTV5,cdtv5,成都公共
-CDTV1,cdtv1，成都新闻
-CDTV2,cdtv2，成都经济
-CDTV3,cdtv3,成都都市
-CDTV4,cdtv4,成都影视
-CDTV6,cdtv6成都少儿
 
+成都公共,cdtv5,CDTV5
+成都新闻,cdtv1,CDTV1
+成都经济,cdtv2,CDTV2
+成都都市,cdtv3,CDTV3
+成都影视,cdtv4,CDTV4
+成都少儿,cdtv6,CDTV6
 
 
 四川文化,SCTV-2
